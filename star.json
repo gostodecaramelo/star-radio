@@ -1,0 +1,298 @@
+{
+    "radio_name": "Pop-Vibes FM",
+    "application": "Star Radio",
+    "songs": [
+        {
+            "songs": [
+                {
+                    "title": "Pure Shores",
+                    "artist": "All Saints",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia903407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20All%20Saints%20-%20Pure%20Shores.mp3",
+                    "mood": ["adventurous", "excited"]
+                },
+                {
+                    "title": "1 Thing",
+                    "artist": "Amerie",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Amerie%20-%201%20Thing.mp3",
+                    "mood": ["obsessive", "excited"]
+                },
+                {
+                    "title": "I Want It That Way",
+                    "artist": "Backstreet Boys",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Backstreet%20Boys%20%E2%80%93%20I%20Want%20It%20That%20Way.mp3",
+                    "mood": ["romantic", "longing"]
+                },
+                {
+                    "title": "On Our Own",
+                    "artist": "Bobby Brown",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Bobby%20Brown%20%E2%80%93%20On%20Our%20Own.mp3",
+                    "mood": ["independent", "determined"]
+                },
+                {
+                    "title": "Gimme More",
+                    "artist": "Britney Spears",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia903407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Britney%20Spears%20-%20Gimme%20More.mp3",
+                    "mood": ["confident", "bold"]
+                },
+                {
+                    "title": "Me And U",
+                    "artist": "Cassie",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia903407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Cassie%20%E2%80%93%20Me%20And%20U.mp3",
+                    "mood": ["flirty", "sensual"]
+                },
+                {
+                    "title": "Rhythm of the Night",
+                    "artist": "Corona",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Corona%20-%20Rhythm%20of%20the%20night.mp3",
+                    "mood": ["party", "carefree"]
+                },
+                {
+                    "title": "Glamorous",
+                    "artist": "Fergie",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Fergie%20-%20Glamorous.mp3",
+                    "mood": ["luxury", "confident"]
+                },
+                {
+                    "title": "Feel Good Inc.",
+                    "artist": "Gorillaz feat. De La Soul",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Gorillaz%20%E2%80%93%20Feel%20Good%20Inc.%20feat.%20De%20La%20Soul.mp3",
+                    "mood": ["euphoric", "free-spirited"]
+                },
+                {
+                    "title": "Adult Education",
+                    "artist": "Hall & Oates",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Hall%20%26%20Oates%20-%20Adult%20Education.mp3",
+                    "mood": ["reflective", "nostalgic"]
+                },
+                {
+                    "title": "New Sensation",
+                    "artist": "INXS",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20INXS%20%E2%80%93%20New%20sensation.mp3",
+                    "mood": ["excited", "motivated"]
+                },
+                {
+                    "title": "Alright",
+                    "artist": "Jamiroquai",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia903407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Jamiroquai%20%E2%80%93%20Alright.mp3",
+                    "mood": ["relaxed", "happy"]
+                },
+                {
+                    "title": "Don't Wanna Fall In Love",
+                    "artist": "Jane Child",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia903407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Jane%20Child%20-%20Don%27t%20Wanna%20Fall%20In%20Love.mp3",
+                    "mood": ["heartbroken", "defensive"]
+                },
+                {
+                    "title": "Work (Freemasons Remix)",
+                    "artist": "Kelly Rowland",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Kelly%20Rowland%20-%20Work%20%28Freemasons%20Remix%29.mp3",
+                    "mood": ["energetic", "seductive"]
+                },
+                {
+                    "title": "Living In A Box",
+                    "artist": "Living In A Box",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Living%20In%20A%20Box%20%E2%80%93%20Living%20In%20A%20Box.mp3",
+                    "mood": ["trapped", "frustrated"]
+                },
+                {
+                    "title": "Tennis Court",
+                    "artist": "Lorde",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Lorde%20%E2%80%93%20Tennis%20Court.mp3",
+                    "mood": ["detached", "cool"]
+                },
+                {
+                    "title": "Midnight City",
+                    "artist": "M83",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia903407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20M83%20%E2%80%93%20Midnight%20City.mp3",
+                    "mood": ["free", "alive"]
+                },
+                {
+                    "title": "Cooler Than Me (Single Mix)",
+                    "artist": "Mike Posner",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Mike%20Posner%20%E2%80%93%20Cooler%20Than%20Me%20Single%20Mix.mp3",
+                    "mood": ["jealous", "competitive"]
+                },
+                {
+                    "title": "Scandalous",
+                    "artist": "Mis-Teeq",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Mis-Teeq%20-%20Scandalous.mp3",
+                    "mood": ["flirty", "mysterious"]
+                },
+                {
+                    "title": "Lady (Here Me Tonight)",
+                    "artist": "Modjo",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Modjo%20-%20Lady%20%28Here%20Me%20Tonight%29.mp3",
+                    "mood": ["romantic", "hopeful"]
+                },
+                {
+                    "title": "The Time Is Now",
+                    "artist": "Moloko",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia903407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Moloko%20%E2%80%93%20The%20Time%20Is%20Now.mp3",
+                    "mood": ["motivated", "in the moment"]
+                },
+                {
+                    "title": "Tape Loop",
+                    "artist": "Morcheeba",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Morcheeba%20%E2%80%93%20Tape%20Loop.mp3",
+                    "mood": ["trapped", "confused"]
+                },
+                {
+                    "title": "Anthem",
+                    "artist": "N-Joi",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia903407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20N-Joi%20-%20Anthem.mp3",
+                    "mood": ["hyped", "excited"]
+                },
+                {
+                    "title": "Promises, Promises",
+                    "artist": "Naked Eyes",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Naked%20Eyes%20%E2%80%93%20Promises%2C%20Promises.mp3",
+                    "mood": ["betrayed", "disappointed"]
+                },
+                {
+                    "title": "West End Girls",
+                    "artist": "Pet Shop Boys",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia903407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Pet%20Shop%20Boys%20-%20West%20End%20Girls.mp3",
+                    "mood": ["cynical", "melancholic"]
+                },
+                {
+                    "title": "Only Girl In the World",
+                    "artist": "Rihanna",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia903407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Rihanna%20-%20Only%20Girl%20In%20the%20World.mp3",
+                    "mood": ["desiring love", "passionate"]
+                },
+                {
+                    "title": "Kids",
+                    "artist": "Robbie Williams ft. Kylie Minogue",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Robbie%20Williams%20ft.%20Kylie%20Minogue%20%E2%80%93%20Kids.mp3",
+                    "mood": ["rebellious", "youthful"]
+                },
+                {
+                    "title": "With Every Heartbeat",
+                    "artist": "Robyn",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia903407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Robyn%20-%20With%20Every%20Heartbeat.mp3",
+                    "mood": ["hopeful", "longing"]
+                },
+                {
+                    "title": "Something Got Me Started (1991 Hurley's House Mix)",
+                    "artist": "Simply Red",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Simply%20Red%20%20%E2%80%93%20%20Something%20Got%20Me%20Started%20%281991%20Hurley%27s%20House%20Mix%29.mp3",
+                    "mood": ["determined", "energized"]
+                },
+                {
+                    "title": "Let's Go All The Way",
+                    "artist": "Sly Fox",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Sly%20Fox%20%E2%80%93%20Let%27s%20Go%20All%20The%20Way.mp3",
+                    "mood": ["optimistic", "carefree"]
+                },
+                {
+                    "title": "6 Underground",
+                    "artist": "Sneaker Pimps",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Sneaker%20Pimps%20%E2%80%93%206%20Underground.mp3",
+                    "mood": ["mysterious", "melancholic"]
+                },
+                {
+                    "title": "The Music Sounds Better with You",
+                    "artist": "Stardust",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia903407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Stardust%20-%20The%20Music%20Sounds%20Better%20with%20You.mp3",
+                    "mood": ["hopeful", "romantic"]
+                },
+                {
+                    "title": "Tell It To My Heart",
+                    "artist": "Taylor Dayne",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia903407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Taylor%20Dayne%20%E2%80%93%20Tell%20It%20To%20My%20Heart.mp3",
+                    "mood": ["needy", "desperate"]
+                },
+                {
+                    "title": "Meet Me Halfway",
+                    "artist": "The Black Eyed Peas",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20The%20Black%20Eyed%20Peas%20%E2%80%93%20Meet%20Me%20Halfway.mp3",
+                    "mood": ["hopeful", "longing"]
+                },
+                {
+                    "title": "Wait",
+                    "artist": "The Blow Monkeys",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia803407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20The%20Blow%20Monkeys%20%E2%80%93%20Wait.mp3",
+                    "mood": ["anticipating", "longing"]
+                },
+                {
+                    "title": "Everything She Wants",
+                    "artist": "Wham",
+                    "year": null,
+                    "genre": null,
+                    "link": "https://ia903407.us.archive.org/1/items/star-radio-pop-vibes-fm/Star%20Radio%20%5BPop-Vibes%20FM%5D%20Wham%20-%20Everything%20She%20Wants.mp3",
+                    "mood": ["shocked", "conflicted"]
+                }
+            ]
+        }
+    ]
+}
